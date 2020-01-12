@@ -1,0 +1,9 @@
+/Users/andrei/Projects/appcfgpwsh/bin/Debug/netstandard2.0/appcfgpwsh.deps.json
+/Users/andrei/Projects/appcfgpwsh/bin/Debug/netstandard2.0/appcfgpwsh.dll
+/Users/andrei/Projects/appcfgpwsh/bin/Debug/netstandard2.0/appcfgpwsh.pdb
+/Users/andrei/Projects/appcfgpwsh/obj/Debug/netstandard2.0/appcfgpwsh.csprojAssemblyReference.cache
+/Users/andrei/Projects/appcfgpwsh/obj/Debug/netstandard2.0/appcfgpwsh.csproj.CoreCompileInputs.cache
+/Users/andrei/Projects/appcfgpwsh/obj/Debug/netstandard2.0/appcfgpwsh.AssemblyInfoInputs.cache
+/Users/andrei/Projects/appcfgpwsh/obj/Debug/netstandard2.0/appcfgpwsh.AssemblyInfo.cs
+/Users/andrei/Projects/appcfgpwsh/obj/Debug/netstandard2.0/appcfgpwsh.dll
+/Users/andrei/Projects/appcfgpwsh/obj/Debug/netstandard2.0/appcfgpwsh.pdb
